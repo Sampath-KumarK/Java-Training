@@ -18,7 +18,7 @@ class Tracker{
         System.out.println("If you want to exit press 0 or press 1 to continue");
         int exit = s.nextInt();
         if(exit == 0){
-            System.out.println("Exiting...");
+            
             return total;
         }else{
             return add();
