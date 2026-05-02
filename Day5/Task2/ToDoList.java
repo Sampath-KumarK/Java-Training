@@ -16,7 +16,7 @@
 // 3. Go for walk
 import java.util.Scanner;
 
-public class TodoList {
+public class ToDoList {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] tasks = new String[3];
