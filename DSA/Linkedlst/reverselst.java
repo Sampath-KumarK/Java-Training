@@ -26,6 +26,7 @@ class Operations {
             // move pointers
             prev = current;
             current = next;
+            
         }
         return prev;
     }
